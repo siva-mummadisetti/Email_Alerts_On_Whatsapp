@@ -1,0 +1,22 @@
+{
+  "name": "email-alerts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "week1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "cheerio": "^1.0.0-rc.10",
+    "fetch": "^1.1.0",
+    "googleapis": "^88.2.0",
+    "js-base64": "^3.7.2",
+    "mailparser": "^3.4.0",
+    "node-fetch": "^3.0.0",
+    "open": "^8.3.0"
+  }
+}
